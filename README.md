@@ -1,4 +1,4 @@
-#Simple Calculator
+###*Simple Calculator*
 
 A simple Calculator for general purposes.
 
