@@ -1,8 +1,8 @@
-
+#Simple Calculator
 
 A simple Calculator for general purposes.
 
-Why use it?
+#Why use it?
 Its useful for simple calculations.
 
 Features
